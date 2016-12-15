@@ -35,7 +35,4 @@
         app:layout_behavior="@id/toolbar"
         >
     </com.hansheng.weekcalendar.view.MyCalendar>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
 </RelativeLayout>
