@@ -35,18 +35,4 @@
         app:layout_behavior="@id/toolbar"
         >
     </com.hansheng.weekcalendar.view.MyCalendar>
-    <LinearLayout
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_centerInParent="true"
-        android:background="@drawable/image_shape">
-        <ImageView
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-
-            android:scaleType="fitXY"
-
-            android:src="@drawable/first"/>
-    </LinearLayout>
-
 </RelativeLayout>
